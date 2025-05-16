@@ -5,7 +5,7 @@
 -  Follow my journey as I learn, build, and share exciting projects here on GitHub!
 - 👀 I'm a AI and DS student. Engineer and Data scientist.
 - 🌱 I’m currently learning Advanced Python and Beginner level Java
-- 📫 How to reach me - mahasakthim96@gmail.com
+- 📫 How to reach me - Gmail - mahasakthim96@gmail.com, LinkedIn - https://www.linkedin.com/in/maha-sakthi-319812253/
 - 😄 Pronouns: She/Her | Developer Dreamer Designer
 - ⚡ Fun fact: One day i will build a robot that dances! 🤖💃
 
