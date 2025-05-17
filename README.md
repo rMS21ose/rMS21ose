@@ -5,12 +5,12 @@
 -  Follow my journey as I learn, build, and share exciting projects here on GitHub!
 - 👀 I'm a AI and DS student. Engineer and Data scientist.
 - 🌱 I’m currently learning Advanced Python and Beginner level Java
-- 📫 How to reach me - Gmail - mahasakthim96@gmail.com, LinkedIn - https://www.linkedin.com/in/maha-sakthi-319812253/
 - 😄 Pronouns: She/Her | Developer Dreamer Designer
 - ⚡ Fun fact: One day i will build a robot that dances! 🤖💃
 
+
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ms_talks_in) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Maha Sakthi) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/mstalksin) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@M. Mahasakthi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Mahasakthim96@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ms_talks_in) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/maha-sakthi-319812253/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/mstalksin) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mahasakthim96@gmail.com) 
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -22,6 +22,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=rMS21ose&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!---
 rMS21ose/rMS21ose is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
